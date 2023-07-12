@@ -1,0 +1,15 @@
+Replication Instruction:
+
+Stop words Removal requires downloading stop words using nltk:
+    import nltk
+    nltk.download(‘stopwords')
+
+Follow instruction for space installation for your specific system configuration from the following website:
+    https://spacy.io/usage
+    Remember that Space will require you to download en_core_web_sm as well for English Lemma Library. (Installation commands will include instuctions)
+
+LDA model is implemented via Gensim thus requires respective installation.
+    pip install --upgrade gensim
+
+Visualization requires installation of pyLDAvis library.
+    pip install pyLDAvis
