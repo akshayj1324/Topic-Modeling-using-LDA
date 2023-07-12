@@ -1,4 +1,4 @@
-Replication Instructions:
+Installation Instructions:
 
 Stop words Removal requires downloading stop words using nltk:
     import nltk
