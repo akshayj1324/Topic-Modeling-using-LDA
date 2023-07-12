@@ -22,8 +22,6 @@ The purpose of this project is to use Topic Modelling to classify research artic
 * Jupyter
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
-
 * **Goal:** The goal of the project to use Latent Dirichlet Allocation (LDA) to identify core topics of research articles.
 * **Data Source:** [Kaggle](https://www.kaggle.com/blessondensil294/topic-modeling-for-research-articles)
 * **Data Preparation:**
