@@ -45,6 +45,7 @@ The purpose of this project is to use Topic Modelling to classify research artic
 ## Getting Started
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Sampled(Stratified) Data is being kept [here](/Data/strat-sampled-dataset.csv) within this repo.
+3. For installing necessary libraries instructions in [Instructions](/Instructions.txt)
 
 ## Featured Notebooks
 * [Base](/TopicModeling-LDA.ipynb) This is the base notebook for LDA implementation
